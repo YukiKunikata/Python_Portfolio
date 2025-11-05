@@ -1,0 +1,12 @@
+１、新しいフォルダ cosme_scraper_app を作る。そこに上の 3 ファイルを保存。
+
+２、仮想環境を用意（推奨）：
+    python -m venv venv
+    source venv/bin/activate   # macOS/Linux
+    venv\Scripts\activate      # Windows
+    pip install -r requirements.txt
+
+３、GUIを起動
+    python gui_app.py
+
+４、GUI で「用途」または「ランキングページURL」を設定 → 出力フォルダを指定 → 「取得開始 ▶」を押す。
