@@ -1,0 +1,6 @@
+# 必要なライブラリ一覧
+requests
+beautifulsoup4
+pandas
+openpyxl
+
